@@ -1,0 +1,90 @@
+{
+  "contacts": [
+    {
+      "id": "hbdnj@mhkj",
+      "name": "Rajan",
+      "photo": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+      "mobile": "9878987879",
+      "email": "rajan@gmail.com",
+      "company": "HCL Technologies",
+      "title": "Software Engineer",
+      "groupId": "1"
+    },
+    {
+      "id": "hbdnj@mhkj2",
+      "name": "Kumar",
+      "photo": "https://www.citypng.com/public/uploads/small/11639594337wbxvgbyuzdm9bgbuyrdtztulrs37rnnxig3hapvpw10pbdyuz8tiq8jgyp7e4iif0ecrfsuqqlrngy3dvgrstfuasisyxnd35lzt.png",
+      "mobile": "9876567898",
+      "email": "kumar@gmail.com",
+      "company": "TCS",
+      "title": "Software Engineer",
+      "groupId": "3"
+    },
+    {
+      "id": "hbdnj@mhkj3",
+      "name": "Virat",
+      "photo": "https://www.freeiconspng.com/thumbs/profile-icon-png/profile-icon-28.png",
+      "mobile": "8789567654",
+      "email": "virat@gmail.com",
+      "company": "Infosys",
+      "title": "Software Engineer",
+      "groupId": "4"
+    },
+    {
+      "id": "hbdnj@mhkj4",
+      "name": "MS Dhoni",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfRKz3fSzvbvOSKUkDz9xv-3q1xJOm5BWrWg&usqp=CAU",
+      "mobile": "7098798789",
+      "email": "dhoni@gmail.com",
+      "company": "Wipro Limited",
+      "title": "Software Developer",
+      "groupId": "1"
+    },
+    {
+      "name": "Rohit",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsdD1rK4ZtCJVizS00LaWifgJnY-wzSVBoHw&usqp=CAU",
+      "mobile": "9856232145",
+      "email": "rohit@gmail.com",
+      "company": "Accenture",
+      "title": "Engineer",
+      "groupId": "4",
+      "id": "3o_sBWp"
+    },
+    {
+      "name": "Rahul",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1s5-1HyqW2b7Z27k_EhpyGt4DdUGl55BIGg&usqp=CAU",
+      "mobile": "8956235689",
+      "email": "rahul@gmail.com",
+      "company": "Coforge",
+      "title": "TestEngineer",
+      "groupId": "6",
+      "id": "FoG6jia"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Community"
+    },
+    {
+      "id": "6",
+      "name": "social"
+    }
+  ]
+}
